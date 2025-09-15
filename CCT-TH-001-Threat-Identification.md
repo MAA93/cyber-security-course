@@ -13,7 +13,6 @@ A **threat** is any potential danger to an asset. Threat sources can be:
 Today, we focus on identifying evidence of **intentional attacks**.
 
 ### Resources
-- **Read:** [Cybersecurity Threats and Advisories (CISA)](https://www.cisa.gov/topics/cyber-threats-and-advisories/cyber-threats) (5 min)
 - **Watch:** [Types of Cyber Threats](https://youtu.be/Dk-ZqQ-bfy4) (12 min)
 - **Reference:** [NIST SP 800-30 Guide](https://csrc.nist.gov/pubs/sp/800/30/r1/final) (For your reference)
 
