@@ -31,7 +31,7 @@ Common ports:
 ssh [your-username]@[your-server-ip]
 ```
 
-### 1) Install tool (on remote server)
+### 1) Install tool (on remote server) (Skip--already installed)
 ```bash
 sudo apt update
 sudo apt install -y nmap
