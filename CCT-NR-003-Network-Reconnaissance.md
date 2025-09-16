@@ -105,5 +105,3 @@ nmap -sS -F SERVER_IP -oN nmap-from-windows.txt
 ## SAFETY
 - Only scan systems you are authorized to test.  
 - Do not scan beyond the lab server.  
-- Only scan systems you are authorized to test.  
-- Do not scan beyond the lab server.  
