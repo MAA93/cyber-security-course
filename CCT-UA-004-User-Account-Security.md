@@ -59,10 +59,6 @@ Linux stores user accounts in `/etc/passwd` and password hashes in `/etc/shadow`
   - `CCT-UA-004-password-policy.txt`
   - `CCT-UA-004-security-report.txt`
 
-- WhatsApp confirmation message:  
-  ```
-  CCT-UA-004 [Your Name] - Audited X users, created secure test user, policy documented
-  ```
 
 ---
 
