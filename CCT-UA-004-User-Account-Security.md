@@ -58,7 +58,8 @@ Linux stores user accounts in `/etc/passwd` and password hashes in `/etc/shadow`
   - `CCT-UA-004-empty-passwords.txt`
   - `CCT-UA-004-password-policy.txt`
   - `CCT-UA-004-security-report.txt`
-
+    
+Complete the form: https://forms.office.com/r/Pr4aYf6atB
 
 ---
 
