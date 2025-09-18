@@ -59,7 +59,16 @@ sudo systemctl restart sshd
 ```
 
 ## SUBMISSION
+
+### Step 1 — Email
+- **To:** `support@ucubetech.com`  
+- **Subject:** `CCT-MD-002 Submission - [Your Name]`
+  
 Attach the following files via email:  
 - `CCT-FP-SH-005-suid.txt`  
 - `CCT-FP-SH-005-sgid.txt`  
 - `CCT-FP-SH-005-ssh-summary.txt` (summary of SSH configuration and verification)
+
+- ### Step 2 — Microsoft Forms
+- **Complete the form:** [https://forms.office.com/r/Pr4aYf6atB](https://forms.office.com/r/Pr4aYf6atB)
+---
