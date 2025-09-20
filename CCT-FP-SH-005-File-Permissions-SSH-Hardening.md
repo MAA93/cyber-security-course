@@ -9,9 +9,9 @@ File permissions and SSH access are critical for securing Linux systems. Misconf
 - Disabling password login for SSH (information only, do not apply)  
 
 ## RESOURCES
-- Linux File Permissions – https://www.cyberciti.biz/faq/linux-unix-check-suid-sgid-files/  
+- Linux File Permissions – https://www.redhat.com/en/blog/linux-file-permissions-explained
 - SSH Key Authentication – https://www.ssh.com/academy/ssh/key  
-- Hardening SSH – https://www.ssh.com/academy/ssh/hardening  
+- Hardening SSH – https://medium.com/@habibullah.127.0.0.1/harden-your-linux-server-best-practices-for-securing-ssh-user-privileges-firewall-configurations-b3c7f1007543
 - Windows: Using SSH keys (PuTTYgen) – https://www.youtube.com/watch?v=q9YA5H53IHQ  
 - Unix/Linux: SSH Key Authentication – https://www.youtube.com/watch?v=5Fcf-8LPvws&t=36s  
 
