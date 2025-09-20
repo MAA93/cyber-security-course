@@ -26,7 +26,7 @@ System logs record critical events such as login attempts, service starts/stops,
 - UFW Ubuntu Documentation – https://help.ubuntu.com/community/UFW  
 - Fail2Ban Documentation – https://www.fail2ban.org/wiki/index.php/Main_Page  
 - Linux Log Files Explained – https://www.loggly.com/ultimate-guide/linux-logging-basics/  
-- SSH Security Logs – https://www.ssh.com/academy/ssh/logging  
+- SSH Security Logs – https://signoz.io/guides/ssh-logs/
 
 ---
 
