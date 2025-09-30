@@ -63,8 +63,7 @@
 ---
 
 ### Q7. How do you verify Cloudflare is proxying your traffic?  
-**Expected Student Thoughts:** DNS, headers, logs.  
-**Instructor Answer:**  
+**Answer:**  
 - DNS should resolve to **Cloudflare IPs**.  
 - Response headers show `cf-ray`, `cf-cache-status`.  
 - EC2 access logs show only Cloudflare IPs (real client IP in `CF-Connecting-IP`).  
