@@ -7,7 +7,7 @@
 - Gain skills to verify if Cloudflare is **actively proxying** traffic.  
 
 
-## 📘 Key Concepts (for Instructor Reference)
+## 📘 Key Concepts
 
 | Concept | Explanation | Example / Notes |
 |---------|-------------|-----------------|
